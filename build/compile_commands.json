@@ -1,0 +1,104 @@
+[
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\Acceptor.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\Acceptor.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/Acceptor.cc",
+  "output": "CMakeFiles/mymuduo.dir/Acceptor.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\Buffer.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\Buffer.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/Buffer.cc",
+  "output": "CMakeFiles/mymuduo.dir/Buffer.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\Channel.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\Channel.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/Channel.cc",
+  "output": "CMakeFiles/mymuduo.dir/Channel.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\CurrentThread.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\CurrentThread.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/CurrentThread.cc",
+  "output": "CMakeFiles/mymuduo.dir/CurrentThread.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\DefaultPoller.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\DefaultPoller.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/DefaultPoller.cc",
+  "output": "CMakeFiles/mymuduo.dir/DefaultPoller.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\EPollPoller.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\EPollPoller.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/EPollPoller.cc",
+  "output": "CMakeFiles/mymuduo.dir/EPollPoller.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\EventLoop.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\EventLoop.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/EventLoop.cc",
+  "output": "CMakeFiles/mymuduo.dir/EventLoop.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\EventLoopThread.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\EventLoopThread.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/EventLoopThread.cc",
+  "output": "CMakeFiles/mymuduo.dir/EventLoopThread.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\EventLoopThreadPool.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\EventLoopThreadPool.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/EventLoopThreadPool.cc",
+  "output": "CMakeFiles/mymuduo.dir/EventLoopThreadPool.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\InetAddress.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\InetAddress.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/InetAddress.cc",
+  "output": "CMakeFiles/mymuduo.dir/InetAddress.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\Logger.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\Logger.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/Logger.cc",
+  "output": "CMakeFiles/mymuduo.dir/Logger.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\Poller.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\Poller.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/Poller.cc",
+  "output": "CMakeFiles/mymuduo.dir/Poller.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\Socket.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\Socket.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/Socket.cc",
+  "output": "CMakeFiles/mymuduo.dir/Socket.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\TcpConnection.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\TcpConnection.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/TcpConnection.cc",
+  "output": "CMakeFiles/mymuduo.dir/TcpConnection.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\TcpServer.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\TcpServer.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/TcpServer.cc",
+  "output": "CMakeFiles/mymuduo.dir/TcpServer.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\Thread.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\Thread.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/Thread.cc",
+  "output": "CMakeFiles/mymuduo.dir/Thread.obj"
+},
+{
+  "directory": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/build",
+  "command": "D:\\mingw64\\bin\\clang++.exe -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -o CMakeFiles\\mymuduo.dir\\Timestamp.obj -c D:\\Desktop\\muduo项目资料\\muduo项目资料\\mymuduo\\mymuduo\\Timestamp.cc",
+  "file": "D:/Desktop/muduo项目资料/muduo项目资料/mymuduo/mymuduo/Timestamp.cc",
+  "output": "CMakeFiles/mymuduo.dir/Timestamp.obj"
+}
+]
